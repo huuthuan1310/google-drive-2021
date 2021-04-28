@@ -3,7 +3,19 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase: {
+    apiKey: 'AIzaSyCJeNzqHnB4tNvi5bQDyFM8ixMdXhbMRYs',
+    authDomain: 'nhf-mobile-app.firebaseapp.com',
+    databaseURL: 'https://nhf-mobile-app.firebaseio.com',
+    projectId: 'nhf-mobile-app',
+    storageBucket: 'nhf-mobile-app.appspot.com',
+    messagingSenderId: '272844426207',
+    appId: '1:272844426207:web:7d593c905932e566fd926a',
+    measurementId: 'G-HH8DVXB8YR',
+  },
+  GAPI_CLIENT_ID:
+    '272844426207-hsn87j8nt0tg4pim9esirt44lm8mfj0m.apps.googleusercontent.com',
 };
 
 /*

@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "nhf-mobile-app": {
+      "hosting": {
+        "googleDrive2021": [
+          "nhf-mobile-app"
+        ]
+      }
+    }
+  }
+}
